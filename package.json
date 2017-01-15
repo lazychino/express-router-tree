@@ -1,0 +1,19 @@
+{
+  "name": "express-router-tree",
+  "version": "1.0.0",
+  "description": "output an archy tree diagram from an express router stack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "router",
+    "utils"
+  ],
+  "author": "Pedro Melendez <lazy.chino@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "archy": "^1.0.0"
+  }
+}
